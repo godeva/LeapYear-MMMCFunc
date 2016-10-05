@@ -1,5 +1,3 @@
-Name: Goutham Deva
-
 Program Description: 
 
 In the “assig1” folder, there are 13 files. Note: Objects files will not be included in this guide as all the descriptions would be simply compiled code from the corresponding code files.
